@@ -1,12 +1,19 @@
 DerpFest 16.2 STABLE | OFFICIAL
-Build Date : 18-06-2026
+Build Date : 14-08-2026
 Device : Redmi Note 7 Pro [ violet ]
-By ~ @selfmuser
+By ~ @Justus26
 
 Rom Changes : 
-[ 18-06-2026 ]
+[ 14-08-2026 ]
 - Welcome to A16 QPR2 😈🔥
-- Merge June 2026 security patches
+- Merge August 2026 security patches
+- Blur Volume panel
+- Blur Power menu
+- Blur UI on Launcher menu
+- Added Axion Wallpaper Effect
+- New Updater UI
+- Some backports from Android 17
+- Added Applock & Sandbox
 - New App drawer styles
 - Background color and opacity settings for app drawer
 - Recents Layout Style on launcher: Scale, Kami, iOS, OxygenOS
@@ -83,6 +90,7 @@ Rom Changes :
 
 Device Changes :
 - Shift to Xcalibur kernel ( Thanks to @Joker-V2 )
+- More Smoother Experience on UI
 - Update media blobs from sweet_k6a
 - Update Graphics blobs
 - Switch C2 Media codecs
@@ -124,7 +132,5 @@ Device Changes :
 
 NOTE : Make sure to join DerpFest Violet chat instead of spamming your skill issues at violet global chat :)
 
-# Thank you so much to everyone who always supported me and my work 🫶
 
-• Big thanks to @adi8900 for making this update possible 🫡❤️‍🔥
-• Special thanks to @Joker-V2 for everything 😎🔥
+• Big thanks to @selfmuser for enlightening me on how to do this & @iamzeus14 for really helping 🫡❤️‍🔥
