@@ -1,18 +1,19 @@
-DerpFest 16.2 STABLE | OFFICIAL
-Build Date : 14-08-2026
+DerpFest 17 STABLE | OFFICIAL
+Build Date : 26-10-2026
 Device : Redmi Note 7 Pro [ violet ]
 By ~ @Justus26
 
 Rom Changes : 
-[ 14-08-2026 ]
-- Welcome to A16 QPR2 😈🔥
-- Merge August 2026 security patches
+[ 26-10-2026 ]
+- Welcome to A17 💪🔥
+- Merge October 2026 security patches
+- Switched to Los Device resources
+- Synced with latest LOS source
 - Blur Volume panel
 - Blur Power menu
 - Blur UI on Launcher menu
-- Added Axion Wallpaper Effect
+- Overall Blur UI for Android 17
 - New Updater UI
-- Some backports from Android 17
 - Added Applock & Sandbox
 - New App drawer styles
 - Background color and opacity settings for app drawer
@@ -22,7 +23,6 @@ Rom Changes :
 - Network Icon Themes
 - QS Tile toggle animation
 - Media volume slider
-- New Dynamic Bar support 
 - Bubble Notifications
 - New charging animation and Lock Screen Clock styles
 - App locker is back
@@ -46,6 +46,11 @@ Rom Changes :
 - DerpLauncher: update icons on dynamic color changes
 - DerpLauncher: Add wallpaper pop-up carousel
 - Add Gradicon, Lorn and Plumpy icon support
+- DerpFestCustomizations: New Dynamic Bar support 
+- DerpFestCustomizations: New Dynamic Island added
+- DerpFestCustomizations: Added Custom Icons for App
+- DerpFestCustomizations: Include Advanced CPU/ GPU Spoof
+- DerpFestCustomizations: Added Option for Separate / Combined QS_Panel
 - DerpFestCustomizations: Update Pulse settings to include navigation bar visualizer
 - DerpFestCustomizations: Add About section with team and project information
 - DerpFestCustomizations: Add a name fitting easter egg ;)
@@ -89,16 +94,22 @@ Rom Changes :
 - A lot of other changes as well , can't list everything.. ( Flash ROM & Find Out !! ) 
 
 Device Changes :
-- Shift to Xcalibur kernel ( Thanks to @Joker-V2 )
+- Shift to LineageOS trees with extra customisations ( Thanks to @Joker-V2 )
+- Shift to Xcalibur-XF kernel ( Thanks to @Joker-V2 )
 - More Smoother Experience on UI
+- Tried to fix Charging Issues. but would expect more heat
+- Dropped Prebuilt Google Messaging for now
+- Dropped Prebuilt Google App for now
+- Added Pixel Wallpaper by default
+- Enabled Bypass Charging Mode
 - Update media blobs from sweet_k6a
 - Update Graphics blobs
 - Switch C2 Media codecs
 - Configure additional camera framerates
 - overlay: Enable LTE+ icon
 - CarrierConfig: Set LTE+ threshold bandwidth to 0
-- Update to Lunaris-Dolby UI
-- Dropped Memecam, Usinv Aperture from now on
+- Update to Oneplus-Dolby
+- Added Memecam
 - Dropped BCR for security reasons
 - Bump kernel BPF version override to 5.10.247
 - Moved Carrierconfig to RRO
@@ -133,4 +144,4 @@ Device Changes :
 NOTE : Make sure to join DerpFest Violet chat instead of spamming your skill issues at violet global chat :)
 
 
-• Big thanks to @selfmuser for enlightening me on how to do this & @iamzeus14 for really helping 🫡❤️‍🔥
+• Big thanks to Joker-V2 for Device and Kernel Trees 🫡❤️‍🔥
